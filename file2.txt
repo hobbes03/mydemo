@@ -1,4 +1,4 @@
 "Second file" 
-Adding some code here
+Adding some code there
 New feature
 bug fix #1212
