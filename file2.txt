@@ -1,3 +1,4 @@
 "Second file" 
 Adding some code here
 New feature
+bug fix #1212
